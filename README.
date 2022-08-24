@@ -1,0 +1,7 @@
+Libs:
+    Flask 
+    Flask-sqlalchemy
+    Pymysql
+    Marshmallow
+    Marshmallow_sqlalchemy
+    
